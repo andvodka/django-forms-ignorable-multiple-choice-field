@@ -1,0 +1,6 @@
+[project]
+name = "django-forms-ignorable-multiple-choice-field"
+version = "0.1.0"
+dependencies = [
+	"Django >= 3.1",
+]
